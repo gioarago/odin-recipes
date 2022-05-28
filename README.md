@@ -1,0 +1,1 @@
+This project will be a basic recipe website built with HTML. The objective is to practice all the HTML that I have learned until today.
